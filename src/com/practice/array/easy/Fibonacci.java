@@ -1,4 +1,4 @@
-package com.practice.array;
+package com.practice.array.easy;
 
 public class Fibonacci {
 
